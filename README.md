@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Create a new React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Make sure you are in your apps parent folder
+i.e. the folder you are installing all your app into.
 
-## Available Scripts
+## If you’re not using typescript use the following line
 
-In the project directory, you can run:
+```
+npx create-react-app <app-name> —typescript
+```
 
 ### `npm start`
 
